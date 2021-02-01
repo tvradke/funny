@@ -1,0 +1,2 @@
+# funny
+A funny factoid
